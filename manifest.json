@@ -1,0 +1,17 @@
+{
+    "manifest_version": 2,
+    "name": "Skillrack Somba",
+    "description" : "Removes Watermark and Prevnets Log out Created by Fair Hawn Solutions",
+	"icons": { "16": "icon.png",
+           "48": "icon.png",
+          "128": "icon.png" },
+    "version": "1.5",
+    "content_scripts": [
+      {
+        "matches": [
+			"https://*.skillrack.com/*"	
+        ],
+        "js": ["content.js"]
+      }
+    ]
+  }

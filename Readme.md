@@ -11,7 +11,3 @@
 3. Click the Load unpacked button and select the extension directory.
 
 
-### Manifest JSON
-1. Extensions start with their manifest. Create a file called manifest.json and include the following code.
-### Content JS
-1. It will work on all pages the users visit because we've mentioned that in manifest file

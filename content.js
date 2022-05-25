@@ -8,7 +8,7 @@ setInterval(
     			
     			if(btn!==null){
 	        		btn.parentNode.removeChild(btn);    	
-				document.getElementsByClassName("big circular")[1].innerText = "Happy Coding from necse"
+				document.getElementsByClassName("big circular")[1].innerText = "Logout Prevented"
     			}
     			
     			if(watermark!==null){

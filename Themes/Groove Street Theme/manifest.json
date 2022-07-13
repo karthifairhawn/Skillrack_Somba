@@ -1,0 +1,60 @@
+{
+    "manifest_version": 2,
+    "theme": {
+        "images": {
+            "theme_frame": "images\/theme_frame.png",
+            "theme_toolbar": "images\/theme_toolbar.png",            
+            "theme_ntp_background": "images\/bg.png"
+        },
+        "colors": {
+            "frame": [
+                15,
+                13,
+                37
+            ],
+            "theme_tab_background":[
+                32,33,36
+            ],
+            "theme_button_background":[
+                255,255,255
+            ],
+ 
+            "tab_text": [
+                255,
+                255,
+                255  
+            ],
+
+
+            "tab_background_text": [
+                255,255,255
+            ],
+            "bookmark_text": [
+                255,
+                255,
+                255
+            ],
+            "control_background": [
+                255,
+                255,
+                255
+            ],
+            
+            "ntp_link":[255, 255, 255]
+
+
+        },
+        "tints": {
+            "buttons":[-1,-1,-1],
+            "frame":[0,0.3,0.3],
+            "background_tab":[0,0.3,0.3 ]
+        },
+        "properties": {
+            "ntp_background_alignment": "left top",
+            "ntp_background_repeat": "no-repeat"                        
+        }
+    },
+    "name": "Groove Street",
+    "version": "1",
+    "description": "Custom Groove Street Theme with Los Santos Background Image."
+}
